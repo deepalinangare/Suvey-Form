@@ -1,0 +1,105 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+body{
+
+background-image: url("https://www.smartsurvey.co.uk/wp-content/uploads/2020/09/pressing-keys-on-keyboard-with-smiley-faces.jpg");
+background-size: cover;
+background-attachment: fixed;
+color: #fff;
+background-color: rgb(57,179,250,0.7);
+background-blend-mode: multiply;
+font-size: 1.1em;
+
+}
+.heading{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+}
+#head{
+
+    font-size: 1.8em;
+}
+#subheading{
+    font-size: 8px;
+    margin-top: 4px;
+
+}
+#content1{
+    width: 90%;
+    margin: auto;
+}
+form{
+
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-top: 34px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  width: 54%;
+  border-radius: : 5px;
+margin: auto;
+margin-top: 10px;
+padding-bottom: 60px;
+
+}
+form .box{
+width: 98.5%;
+height: 2.8em;
+position: relative;
+bottom: 10px;
+border: 0;
+border-radius: 5px;
+
+}
+#optional select{
+
+width: 98.5%;
+height: 2.7em;
+position: relative;
+bottom: 10px;
+border-radius: 5px;
+border: 0;
+
+}
+#option2 select{
+    width: 98.5%;
+    height: 2.7em;
+    position: relative;
+    bottom: 10px;
+    border-radius: 5px;
+    border: 0;
+}
+#content2{
+
+    margin-top: 10px;
+}
+#content2 textarea{
+
+    width: 98.5%;
+    height: 125px;
+    position: relative;
+    bottom: 17px;
+}
+
+button{
+    width: 98.5%;
+    height: 3em;
+    position: relative;
+    top: 11px;
+    background-color: rgba(18,219,78);
+    border: none;
+    color:rgb(255,255,2555);
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+input.larger{
+    width: 20px;
+    height: 20px;
+}
+
+
